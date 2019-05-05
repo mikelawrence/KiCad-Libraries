@@ -1,0 +1,51 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3014EDD
+D Analog Devices Low Dropout Micropower Linear Regulator, Adjustable, 20mA, 80V, 3X3mm DFN-5-1EP
+K Linear Regulator LDO Adjustable Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3014fd.pdf
+$ENDCMP
+#
+$CMP LT3014ES5
+D Analog Devices Low Dropout Micropower Linear Regulator, Adjustable, 20mA, 80V, TSOT-23-5
+K Linear Regulator LDO Adjustable Positive
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3014fd.pdf
+$ENDCMP
+#
+$CMP LT3014HVEDD
+D 20mA Low Dropout Linear Regulator, Adjustable 1.22V to 60V, 3X3mm DFN-5-1EP
+K Linear Regulator LDO Adjustable Positive
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8219.pdf
+$ENDCMP
+#
+$CMP LT3014HVES5
+D 20mA Low Dropout Linear Regulator, Adjustable 1.22V to 60V, TSOT-23-5
+K Linear Regulator LDO Adjustable Positive
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8219.pdf
+$ENDCMP
+#
+$CMP LT3014HVIDD
+D 20mA Low Dropout Linear Regulator, Adjustable 1.22V to 60V, 3X3mm DFN-5-1EP
+K Linear Regulator LDO Adjustable Positive
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8219.pdf
+$ENDCMP
+#
+$CMP LT3014HVIS5
+D 20mA Low Dropout Linear Regulator, Adjustable 1.22V to 60V, TSOT-23-5
+K Linear Regulator LDO Adjustable Positive
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8219.pdf
+$ENDCMP
+#
+$CMP LT3014IDD
+D 20mA Low Dropout Linear Regulator, Adjustable 1.22V to 60V, 3X3mm DFN-5-1EP
+K Linear Regulator LDO Adjustable Positive
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8219.pdf
+$ENDCMP
+#
+$CMP LT3014IS5
+D 20mA Low Dropout Linear Regulator, Adjustable 1.22V to 60V, TSOT-23-5
+K Linear Regulator LDO Adjustable Positive
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8219.pdf
+$ENDCMP
+#
+#End Doc Library

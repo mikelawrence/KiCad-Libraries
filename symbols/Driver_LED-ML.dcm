@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM3414
+D 42V, 60W Common Anode-Capable Constant Current Buck LED Driver
+K Constant Current LED Driver
+F http://www.ti.com/lit/ds/symlink/lm3414.pdf
+$ENDCMP
+#
+$CMP LM3414HV
+D 65V, 60W Common Anode-Capable Constant Current Buck LED Driver
+K Constant Current LED Driver
+$ENDCMP
+#
+$CMP PCA9685BS
+D 16-channel, 12-bit PWM I2C-bus LED controller
+K I2C LED Controller
+F https://www.nxp.com/docs/en/data-sheet/PCA9685.pdf
+$ENDCMP
+#
+$CMP PCA9685PW
+D 16-channel, 12-bit PWM I2C-bus LED controller
+K I2C LED Controller
+F https://www.nxp.com/docs/en/data-sheet/PCA9685.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Triad_VPP10-500
+D Transformer, 16V, 500mA, dual primary, dual secondary
+K transformer coil magnet
+F https://catalog.triadmagnetics.com/Asset/VPP10-500.pdf
+$ENDCMP
+#
+$CMP Triad_VPP12-400
+D Transformer, 12V, 400mA, dual primary, dual secondary
+K transformer coil magnet
+F https://catalog.triadmagnetics.com/Asset/VPP12-400.pdf
+$ENDCMP
+#
+$CMP Triad_VPP16-310
+D Transformer, 16V, 310mA, dual primary, dual secondary
+K transformer coil magnet
+F https://catalog.triadmagnetics.com/Asset/VPP16-310.pdf
+$ENDCMP
+#
+$CMP Triad_VPP20-250
+D Transformer, 20V, 250mA, dual primary, dual secondary
+K transformer coil magnet
+F https://catalog.triadmagnetics.com/Asset/VPP20-250.pdf
+$ENDCMP
+#
+$CMP Triad_VPP24-210
+D Transformer, 24V, 210mA, dual primary, dual secondary
+K transformer coil magnet
+F https://catalog.triadmagnetics.com/Asset/VPP24-210.pdf
+$ENDCMP
+#
+$CMP Triad_VPP28-180
+D Transformer, 28V, 180mA, dual primary, dual secondary
+K transformer coil magnet
+F https://catalog.triadmagnetics.com/Asset/VPP28-180.pdf
+$ENDCMP
+#
+$CMP Triad_VPP36-140
+D Transformer, 36V, 140mA, dual primary, dual secondary
+K transformer coil magnet
+F https://catalog.triadmagnetics.com/Asset/VPP36-140.pdf
+$ENDCMP
+#
+#End Doc Library

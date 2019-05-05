@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BTS3800SL
+D Smart Low-Side Switch, HITFET, Single, 0.8Ohm, 350mA, 41V, SCT-595
+K Low-Side Switch
+F https://www.infineon.com/dgdl/Infineon-BTS3800SL-DS-v01_01-EN.pdf?fileId=5546d4625a888733015aa9b0af2a361e
+$ENDCMP
+#
+$CMP BTS7008-2EPA
+D Smart High-Side Power Switch, PROFET, Dual, 8mOhm, 7.5A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7008-2EPA-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc101590212356876b1
+$ENDCMP
+#
+#End Doc Library

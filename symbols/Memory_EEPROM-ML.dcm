@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT24CS32-MAHM
+D I2C Serial EEPROM, 32Kb (4096x8) with Unique Serial Number, DFN8
+K I2C Serial EEPROM Nonvolatile Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8869-SEEPROM-AT24CS32-Datasheet.pdf
+$ENDCMP
+#
+$CMP AT24CS32-SSHM
+D I2C Serial EEPROM, 32Kb (4096x8) with Unique Serial Number, SO8
+K I2C Serial EEPROM Nonvolatile Memory
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8869-SEEPROM-AT24CS32-Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

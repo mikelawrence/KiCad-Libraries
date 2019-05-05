@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMZ21700
+D 650mA Simple Switcher Nano Module 17V Input
+K Step-Down DC-DC Converter
+$ENDCMP
+#
+#End Doc Library

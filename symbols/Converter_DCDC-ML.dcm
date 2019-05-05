@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMZ21700
+D TI Simple Switcher, Nano Module, 650mA, 17V
+K Step-Down DC-DC Converter
+F http://www.ti.com/lit/ds/symlink/lmz21700.pdf
+$ENDCMP
+#
+$CMP OKI-78SR-12
+D Murata Positive Switching Regulator, 12V Out, 1.5A, 36V In
+K Switching Regulator 1.5A Positive
+F https://power.murata.com/data/power/oki-78sr.pdf
+$ENDCMP
+#
+$CMP OKI-78SR-3.3
+D Murata Positive Switching Regulator, 3.3V Out, 1.5A, 36V In
+K Switching Regulator 1.5A Positive
+F https://power.murata.com/data/power/oki-78sr.pdf
+$ENDCMP
+#
+$CMP OKI-78SR-5
+D Murata Positive Switching Regulator, 5V Out, 1.5A, 36V In
+K Switching Regulator 1.5A Positive
+F https://power.murata.com/data/power/oki-78sr.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPD2E2U06
+D Dual-Channel High-Speed ESD Protection
+K ESD-Protection
+F http://www.ti.com/lit/gpn/tpd2e2u06-q1
+$ENDCMP
+#
+#End Doc Library

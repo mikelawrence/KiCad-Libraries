@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX31850EATB
+D Cold Junction E-type Thermocouple Interface, 1-Wire, TDFN-10
+$ENDCMP
+#
+$CMP MAX31850JATB
+D Cold Junction J-type Thermocouple Interface, 1-Wire, TDFN-10
+$ENDCMP
+#
+$CMP MAX31850KATB
+D Cold Junction K-type Thermocouple Interface, 1-Wire, TDFN-10
+K Cold Junction Thermocouple Interface 1-Wire
+F https://datasheets.maximintegrated.com/en/ds/MAX31850-MAX31851.pdf
+$ENDCMP
+#
+$CMP MAX31850NATB
+D Cold Junction N-type Thermocouple Interface, 1-Wire, TDFN-10
+$ENDCMP
+#
+$CMP MAX31850TATB
+D Cold Junction T-type Thermocouple Interface, 1-Wire, TDFN-10
+$ENDCMP
+#
+$CMP MAX31851RATB
+D Cold Junction R-type Thermocouple Interface, 1-Wire, TDFN-10
+K Cold Junction Thermocouple Interface 1-Wire
+F https://datasheets.maximintegrated.com/en/ds/MAX31850-MAX31851.pdf
+$ENDCMP
+#
+$CMP MAX31851SATB
+D Cold Junction S-type Thermocouple Interface, 1-Wire, TDFN-10
+K Cold Junction Thermocouple Interface 1-Wire
+F https://datasheets.maximintegrated.com/en/ds/MAX31850-MAX31851.pdf
+$ENDCMP
+#
+#End Doc Library

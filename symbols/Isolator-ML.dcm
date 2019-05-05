@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MID400
+D AC Line Monitor, Logic Compatible, DIP8
+K AC Line Monitor
+F https://www.onsemi.com/pub/Collateral/MID400-D.pdf
+$ENDCMP
+#
+#End Doc Library
