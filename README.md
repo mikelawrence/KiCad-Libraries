@@ -1,5 +1,5 @@
 # KiCad Libraries
-Mike Lawrence's custom KiCad libraries. These libraries try use the KiCad 5 Library Convention.
+Mike Lawrence's custom KiCad libraries. These libraries try to use the [KiCad Library Convention](http://kicad-pcb.org/libraries/klc/).
 
 To use: define the following paths in KiCad (Preferences/Configure Paths...)
 
