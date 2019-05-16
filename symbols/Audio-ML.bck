@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MAX98357A
-D PCM Input Class D Audio Power Amplifier
-K Audio, PCM, I2S, Power Amplifirer
-F https://datasheets.maximintegrated.com/en/ds/MAX98357A-MAX98357B.pdf
-$ENDCMP
-#
-#End Doc Library
