@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IPD90P03P4L-04
+D 90A Id, 30V Vds, OptiMOS P-Channel Power MOSFET, 4.1mOhm Ron, TO-252-2
+K OptiMOS P-Channel Power MOSFET
+F https://www.infineon.com/dgdl/Infineon-IPD90P03P4L_04-DS-v01_00-en.pdf?fileId=db3a30431ddc9372011e07e8373a27c4
+$ENDCMP
+#
 #End Doc Library
