@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TCA6408A
+D 8-bit I/O expander, I2C and SMBus interface, interrupts, QFN-16 package
+K ti parallel port
+F http://www.ti.com/lit/ds/symlink/tca6408a.pdf
+$ENDCMP
+#
+$CMP TCA6416A
+D 16-bit I/O expander, I2C and SMBus interface, interrupts, QFN-32 package
+K ti parallel port
+F http://www.ti.com/lit/ds/symlink/tca6416a.pdf
+$ENDCMP
+#
+$CMP TCA6424A
+D 24-bit I/O expander, I2C and SMBus interface, interrupts, QFN-32 package
+K ti parallel port
+F http://www.ti.com/lit/ds/symlink/tca6424a.pdf
+$ENDCMP
+#
+#End Doc Library
