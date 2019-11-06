@@ -12,6 +12,18 @@ K High-Side Power Switch
 F https://www.infineon.com/dgdl/Infineon-BTS7008-2EPA-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc101590212356876b1
 $ENDCMP
 #
+$CMP IFX007T
+D High Current PN Half Bridge, 12.8mOhm, 55A, 40V, TO-263-7
+K half bridge for motor drive applications
+F https://www.infineon.com/dgdl/Infineon-BTN8982TA-DS-v01_00-EN.pdf?fileId=db3a30433fa9412f013fbe32289b7c17
+$ENDCMP
+#
+$CMP ITS4075Q
+D Quad Channel Smart High-Side Power Switch
+K quad channel power distribution/load switch
+F https://www.infineon.com/dgdl/Infineon-ITS4075Q-EP-D-DS-v01_00-EN.pdf?fileId=5546d46262b31d2e01633af966903be6
+$ENDCMP
+#
 $CMP NUD3124
 D Automotive Inductive Load Driver, 0.15A, 28V, SOT-23
 K low side switch inductive load driver relay
