@@ -11,6 +11,12 @@ D 65V, 60W Common Anode-Capable Constant Current Buck LED Driver
 K Constant Current LED Driver
 $ENDCMP
 #
+$CMP LP5024
+D 24-Channel, LED Driver, I2C and SMBus interface, VQFN-32 package
+K LED Driver
+F http://www.ti.com/lit/ds/symlink/tca6424a.pdf
+$ENDCMP
+#
 $CMP PCA9685BS
 D 16-channel, 12-bit PWM I2C-bus LED controller
 K I2C LED Controller
