@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HSMX-A2
+D Bicolor LED SMT
+K LED diode bicolor dual
+F https://www.mouser.com/datasheet/2/678/V02-0501EN-DS-HSMx-A2xx-02Feb2012-1483413.pdf
+$ENDCMP
+#
+#End Doc Library
