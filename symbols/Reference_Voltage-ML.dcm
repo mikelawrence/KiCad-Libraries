@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP REF3312
+D 1.25V 30-ppm/°C Max, 3.9-μA, Voltage Reference, SOT-23-3
+K voltage reference
+F http://www.ti.com/lit/ds/symlink/ref3033.pdf
+$ENDCMP
+#
+$CMP REF3318
+D 1.8V 30-ppm/°C Max, 3.9-μA, Voltage Reference, SOT-23-3
+K voltage reference
+F http://www.ti.com/lit/ds/symlink/ref3318.pdf
+$ENDCMP
+#
+$CMP REF3320
+D 2.048V 30-ppm/°C Max, 3.9-μA, Voltage Reference, SOT-23-3
+K voltage reference
+F http://www.ti.com/lit/ds/symlink/ref3320.pdf
+$ENDCMP
+#
+$CMP REF3325
+D 2.5V 30-ppm/°C Max, 3.9-μA, Voltage Reference, SOT-23-3
+K voltage reference
+F http://www.ti.com/lit/ds/symlink/ref3325.pdf
+$ENDCMP
+#
+$CMP REF3330
+D 3.0V 30-ppm/°C Max, 3.9-μA, Voltage Reference, SOT-23-3
+K voltage reference
+F http://www.ti.com/lit/ds/symlink/ref3330.pdf
+$ENDCMP
+#
+$CMP REF3333
+D 3.3V 30-ppm/°C Max, 3.9-μA, Voltage Reference, SOT-23-3
+K voltage reference
+F http://www.ti.com/lit/ds/symlink/ref3333.pdf
+$ENDCMP
+#
+#End Doc Library
