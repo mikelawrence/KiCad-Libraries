@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS3779
+D Dual-Channel, Low-Power, High-Accuracy Voltage Detector, SOT-23-6
+K protection voltage monitor
+F http://www.ti.com/lit/ds/symlink/tps3779.pdf
+$ENDCMP
+#
+#End Doc Library
