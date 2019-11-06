@@ -1,0 +1,54 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +12V
+D Power symbol creates a global label with name "+12V"
+K power-flag
+$ENDCMP
+#
+$CMP +3.0V
+D Power symbol creates a global label with name "+3.0V"
+K power-flag
+$ENDCMP
+#
+$CMP +3.3V
+D Power symbol creates a global label with name "+3.3V"
+K power-flag
+$ENDCMP
+#
+$CMP +5V
+D Power symbol creates a global label with name "+5V"
+K power-flag
+$ENDCMP
+#
+$CMP GND
+D Power symbol creates a global label with name "GND"
+K power-flag ground gnd
+F ~
+$ENDCMP
+#
+$CMP VBUS
+D Power symbol creates a global label with name "VBUS"
+K power-flag
+$ENDCMP
+#
+$CMP VCC
+D Power symbol creates a global label with name "VCC"
+K power-flag
+$ENDCMP
+#
+$CMP VLED
+D Power symbol creates a global label with name "VLED"
+K power-flag
+$ENDCMP
+#
+$CMP VREF
+D Power symbol creates a global label with name "VREF"
+K power-flag
+$ENDCMP
+#
+$CMP VSW1
+D Power symbol creates a global label with name "VSW1"
+K power-flag
+$ENDCMP
+#
+#End Doc Library
