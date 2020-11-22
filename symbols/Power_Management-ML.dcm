@@ -6,10 +6,52 @@ K Low-Side Switch
 F https://www.infineon.com/dgdl/Infineon-BTS3800SL-DS-v01_01-EN.pdf?fileId=5546d4625a888733015aa9b0af2a361e
 $ENDCMP
 #
-$CMP BTS7008-2EPA
-D Smart High-Side Power Switch, PROFET, Dual, 8mOhm, 7.5A, 28V, TSDSO-14
+$CMP BTS7002-1EPP
+D Smart High-Side Power Switch, PROFET, Single, 2.6mOhm, 21A, 28V, TSDSO-14
 K High-Side Power Switch
-F https://www.infineon.com/dgdl/Infineon-BTS7008-2EPA-DS-v01_00-EN.pdf?fileId=5546d46258fc0bc101590212356876b1
+F https://www.infineon.com/dgdl/Infineon-BTS7002-1EPP-DataSheet-v01_04-EN.pdf?fileId=5546d4626eab8fbf016ead699aef00b3
+$ENDCMP
+#
+$CMP BTS7008-1EPA
+D Smart High-Side Power Switch, PROFET, Single, 9mOhm, 10A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7008-1EPA-DataSheet-v01_02-EN.pdf?fileId=5546d462636cc8fb0163fe7f1b8308ad
+$ENDCMP
+#
+$CMP BTS7008-1EPZ
+D Smart High-Side Power Switch, PROFET, Single, 9mOhm, 10A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7008-1EPZ-DataSheet-v01_00-EN.pdf?fileId=5546d4626df6ee62016dfe5acd1511c1
+$ENDCMP
+#
+$CMP BTS7008-2EPA
+D Smart High-Side Power Switch, PROFET, Dual, 9mOhm, 7.5A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7008-2EPA-DataSheet-v01_14-EN.pdf?fileId=5546d46258fc0bc101590212356876b1
+$ENDCMP
+#
+$CMP BTS7008-2EPZ
+D Smart High-Side Power Switch, PROFET, Dual, 9mOhm, 7.5A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7008-2EPZ-DataSheet-v01_00-EN.pdf?fileId=5546d4626e651a41016e7e74b26b1098
+$ENDCMP
+#
+$CMP BTS7200-2EPA
+D Smart High-Side Power Switch, PROFET, Dual, 120mOhm, 1.2A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7200-2EPA-DataSheet-v01_03-EN.pdf?fileId=5546d462636cc8fb016421e548a61215
+$ENDCMP
+#
+$CMP BTS7200-2EPC
+D Smart High-Side Power Switch, PROFET, Dual, 120mOhm, 1.2A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7200-2EPC-DataSheet-v01_02-EN.pdf?fileId=5546d46265f064ff0166436246760bb9
+$ENDCMP
+#
+$CMP BTS7200-4EPA
+D Smart High-Side Power Switch, PROFET, Quad, 120mOhm, 1A, 28V, TSDSO-14
+K High-Side Power Switch
+F https://www.infineon.com/dgdl/Infineon-BTS7200-4EPA-DataSheet-v01_00-EN.pdf?fileId=5546d46270c4f93e0170e8a6ea220985
 $ENDCMP
 #
 $CMP IFX007T

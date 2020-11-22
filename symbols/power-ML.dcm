@@ -26,6 +26,12 @@ K power-flag ground gnd
 F ~
 $ENDCMP
 #
+$CMP GNDD
+D Power symbol creates a global label with name "GND"
+K power-flag ground gnd
+F ~
+$ENDCMP
+#
 $CMP VBUS
 D Power symbol creates a global label with name "VBUS"
 K power-flag

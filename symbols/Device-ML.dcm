@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_Schottky_x2_ACom_KKA
+D Dual Schottky diode, common anode on pin 3
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_ACK
+D Dual Schottky diode, anode/center/cathode
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_Schottky_x2_Serial_AKC
+D Dual Schottky diode, anode/cathode/center
+K diode
+F ~
+$ENDCMP
+#
+#End Doc Library
